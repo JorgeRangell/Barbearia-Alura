@@ -9,7 +9,7 @@ Formação Pratique HTML e CSS em projetos Web.
 | :rocket: URL         | https://barbearia-alura-plum-tau.vercel.app
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![image](https://github.com/JorgeRangell/Alura-Html5-Css3-Study-Material/assets/101427212/08cacfb9-cd06-49f3-9feb-b093fd739455)
+![image](https://github.com/JorgeRangell/Alura-Html5-Css3-Study-Material/assets/101427212/08cacfb9-cd06-49f3-9feb-b093fd739455#vitrinedev)
 
 
 ## Objetivos
